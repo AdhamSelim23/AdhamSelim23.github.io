@@ -1,0 +1,47 @@
+// Toggles
+//
+// Used in conjunction with global variables to enable certain theme features.
+
+// Vendor
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/vendor/rfs";
+
+// Deprecate
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/deprecate";
+
+// Utilities
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/breakpoints";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/hover";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/image";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/badge";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/resize";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/screen-reader";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/size";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/reset-text";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/text-emphasis";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/text-hide";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/text-truncate";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/visibility";
+
+// Components
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/alert";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/buttons";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/caret";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/pagination";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/lists";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/list-group";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/nav-divider";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/forms";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/table-row";
+
+// Skins
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/background-variant";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/border-radius";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/box-shadow";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/gradients";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/transition";
+
+// Layout
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/clearfix";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/grid-framework";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/grid";
+@import "Downloads/Adham/cod/portfolio/Adham Selim Portfolio/scss/bootstrap/scss/mixins/float";
